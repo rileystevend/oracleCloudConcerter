@@ -1,0 +1,6 @@
+node_modules
+client/dist/bundle.js
+config.js
+oracle.zip
+oracle2.zip
+oracle3.zip
