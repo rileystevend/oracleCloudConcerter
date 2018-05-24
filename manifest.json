@@ -4,5 +4,5 @@
   },
   "command": "node server/index.js", 
   "release": {},
-  "notes": "NightLyve application"
+  "notes": "concerter application"
 }
