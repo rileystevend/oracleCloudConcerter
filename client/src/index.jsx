@@ -42,7 +42,7 @@ class App extends React.Component {
         if (this.state.welcome === true) {
             return (
                 <div>
-                    <h1>Welcome to the landing page for NightLyve</h1>
+                    <h1>Welcome to the landing page for Concerter!</h1>
                     <Search onSearch={this.search}/>
                 </div>
             )
